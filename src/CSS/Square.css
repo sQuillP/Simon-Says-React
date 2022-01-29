@@ -1,0 +1,14 @@
+
+
+.square {
+    width: 10em;
+    height: 10em;
+    background-color: grey;
+    margin: 0.5em;
+}
+
+.toggled {
+    background-color: blue;
+}
+
+.test{background-color: red;}
